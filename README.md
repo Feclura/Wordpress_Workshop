@@ -40,3 +40,8 @@ N'oubliez que le PHP vous permets d'utiliser du html et du css alors n'hésitez 
 # 3. Modifiez un plugin existant.
 
 lorem ipsum
+
+
+# 4. Créer un Carrousel d'image pour le site internet
+
+lorem ipsum
