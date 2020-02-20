@@ -39,7 +39,7 @@ N'oubliez que le PHP vous permets d'utiliser du html et du css alors n'hésitez 
 
 # 3. Modifiez un plugin existant.
 
-Choississez un ou plusieurs plug-ins déjà existant. De préférence des plug in simple comme ***
+Choississez un ou plusieurs plug-ins déjà existant. De préférence des plug in simple comme contact-form7 ou autre connerie que vous trouverez ;)
 afin de vous familiariser un peu plus avec les hooks et la manière dont ils sont utilisés.
 N'hésitez pas à en modifier quelques uns ! Wordpress est open-source ;)
 
