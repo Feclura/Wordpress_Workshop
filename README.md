@@ -39,9 +39,17 @@ N'oubliez que le PHP vous permets d'utiliser du html et du css alors n'hésitez 
 
 # 3. Modifiez un plugin existant.
 
-lorem ipsum
+Choississez un ou plusieurs plug-ins déjà existant. De préférence des plug in simple comme ***
+afin de vous familiariser un peu plus avec les hooks et la manière dont ils sont utilisés.
+N'hésitez pas à en modifier quelques uns ! Wordpress est open-source ;)
 
 
-# 4. Créer un Carrousel d'image pour le site internet
 
-lorem ipsum
+# 4. Implémenter un footer dans le front depuis le Back-office
+
+Le but de cet exercice sera de créer une option dans le back-office (post-type) qui permettra de faire de créer un footer à notre front et de pouvoir le modifier à tout moment sans toucher au footer.php
+
+En premier construisez votre custom post-type
+puis faite en sorte de pouvoir modifier le footer grâce aux hooks
+
+N'hésitez pas à vous documenter ou à venir me voir.
